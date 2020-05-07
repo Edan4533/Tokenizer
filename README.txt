@@ -5,6 +5,7 @@ In this task i implmented tokenizer to king james bible
 To run the code all needed is:
 - download to your machine this repo 
 - cd to this directory throw terminal
+- run npm i
 - run  : node app.js 
 
 Contains 2 API : 
